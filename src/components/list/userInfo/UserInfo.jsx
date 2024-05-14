@@ -1,0 +1,7 @@
+import './userInfo.css'
+
+export default function UserInfo() {
+  return (
+    <div>UserInfo</div>
+  )
+}
